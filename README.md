@@ -1,4 +1,5 @@
-# Javascript estrutura de dados e algoritmos
+# Javascript estrutura de dados e algoritmos  
+🚧 in progress 🚧
 
 Meu resumo e Código fonte do livro **_Javascript Estrutura de Dados e Algoritmos Ed. 2_**.
 
