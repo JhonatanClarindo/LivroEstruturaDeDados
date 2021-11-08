@@ -16,7 +16,7 @@ Resumo do Cap. 07
 
 ## <a name="parte1">1 - Estrutura de dados dos conjuntos</a>
 
- Um conjunto  (set) é uma coleção não ordenada de itens. Essa estrutura de dados usa o mesmo conceito matemático dos conjuntos finitos, porém adaptado a uma estrutura de dados em ciência da computação.
+ 
 
 [Voltar ao Índice](#indice)
 
