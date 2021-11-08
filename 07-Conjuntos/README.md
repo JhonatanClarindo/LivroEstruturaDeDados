@@ -11,8 +11,6 @@ Resumo do Cap. 07
 3. [Inserção de elementos](#parte3)
 4. [Remoção de elementos](#parte4)
 5. [Operações em conjunto](#parte5)
-6. [](#parte6)
-7. [Limpando a fila](#parte7)     
 ---
 
 
