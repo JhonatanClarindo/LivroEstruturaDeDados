@@ -1,6 +1,6 @@
-# 2. Visão Geral sobre ECMAScript e TypeScript
+# 3. Arrays
 ## O capítulo 3 explica como usar a estrutura de dados mais básica e mais utilizada, os arrays. 
-Resumo do Cap. 02
+Resumo do Cap. 03
 
 ## <a name="indice">Índice</a>
 
@@ -43,7 +43,6 @@ Um array é a estrutura de dados mais simples possível em memória. Um array ar
 [Voltar ao Índice](#indice)
 
 ---
-
 
 ## <a name="parte2">2 - Criando e inicializando arrays</a>
 

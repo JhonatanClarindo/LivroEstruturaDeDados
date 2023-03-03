@@ -240,10 +240,15 @@ Agora que foi visto como uma stack funciona, será usado alguns problemad de ci�
 Certo. Aqui, via de regra, é sabido por todos que um computador se comunica em numeros binário. Logo, para converter um decimal em binário, pode-se dividir o número por 2 até que o resultado dê 0.
 
 Imagine o número 10. Agora ele será convertido para binário. Veja:
+
 10/2 == 5 resto 0
+
 5/2 == 2 resto 1
+
 2/2 == 1 resto 0
+
 1/2 == 0 resto 1
+
 Para saber, pegamos os restos de baixo pra cima. Então o número 10 em binário seria 1010
 
 Em algoritmo, veja como ficaria:

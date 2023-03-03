@@ -1,4 +1,4 @@
-# 4. Filas 
+# 5. Filas 
 ## O capítulo 5 mostra como criar, adicionar e remover elementos de uma fila. Também traz alguns problemas que podem ser resolvidos com a estrutura de dados fila.
 
 Resumo do Cap. 05
