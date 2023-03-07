@@ -1,6 +1,6 @@
 # 9. Recursão
 
-# No geral, o Capítulo cobre os fundamentos de dicionários e tabelas hash, incluindo sua implementação e aplicações práticas. O capítulo também inclui vários exemplos e exercícios para ajudar os leitores a praticar e solidificar sua compreensão dos conceitos abordados.
+# O capítulo explica e exemplifica sobre as funções recursivas e como podem ser usadas para resolver problemas.
 
 Resumo do Cap. 09
 
@@ -8,8 +8,8 @@ Resumo do Cap. 09
 ## <a name="indice">Índice</a>
 
 1. [Introdução à recursividade](#parte1)     
-2. [Introdução à Hashing](#parte2)     
-3. [Introdução à Tabelas de Hash](#parte3)
+2. [Exemplo sequência de Fibonacci](#parte2)     
+3. [Exemplo de pesquisa binária](#parte3)
 
 ## <a name="parte1">1 - Introdução à recursividade </a>
 
