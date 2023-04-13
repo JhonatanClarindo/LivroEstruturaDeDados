@@ -220,7 +220,6 @@ class BinarySearchTree {
 
 
 ## <a name="parte3">3 - Árvore AVL  </a>
-Claro, eu ficaria feliz em explicar as árvores AVL com mais detalhes!
 
 As árvores AVL são um tipo de árvore de busca binária autobalanceada. Uma árvore de pesquisa binária é uma estrutura de dados onde cada nó tem no máximo dois nós filhos, e o nó filho esquerdo contém um valor menor que o nó pai, enquanto o nó filho direito contém um valor maior que o nó pai.
 
