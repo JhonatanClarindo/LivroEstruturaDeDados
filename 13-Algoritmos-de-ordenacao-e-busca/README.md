@@ -2,7 +2,7 @@
 
 # Neste cápitulo é abordado alguns dos algoritmos usados para busca e ordenação.
 
-Resumo do Cap. 12
+Resumo do Cap. 13
 
 
 ## <a name="indice">Índice</a>
