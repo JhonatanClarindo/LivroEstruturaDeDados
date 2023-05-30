@@ -1,8 +1,8 @@
 # 14. Designs de Algoritmos e técnicas
 
-# Neste capítulo será tratado sobre algumas técnicas para solucionar problemas envolvendo algogoritmos.
+# Neste capítulo será tratado sobre algumas técnicas para solucionar problemas envolvendo algoritmos.
 
-Resumo do Cap. 13
+Resumo do Cap. 14
 
 
 ## <a name="indice">Índice</a>
